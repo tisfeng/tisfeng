@@ -1,4 +1,4 @@
-### Hello World, I'm tisfeng 🍃
+### Hello World, I'm Tisfeng 🍃
 
 <!--
 **tisfeng/tisfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
