@@ -6,7 +6,7 @@ I’m currently working on [Easydict](https://github.com/tisfeng/easydict).
 > 
 > **一个简洁优雅的翻译词典 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统翻译，DeepL，谷歌，百度和火山翻译。**
 
-<img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/iShot_2023-01-28_17.40.28-1674901716.png" width="80%">
+<img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/iShot_2023-01-28_17.40.28-1674901716.png" width="100%">
  
  ## Statistics
  
