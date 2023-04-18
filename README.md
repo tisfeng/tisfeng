@@ -1,11 +1,8 @@
-### Hello world 🍃
+### Hello World 🍃
 
-<p align="center">
-<a href="https://github.com/tisfeng">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tisfeng&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tisfeng&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+| <a class="gh-card" target="_blank"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tisfeng&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="tisfeng readme card" /></a> | <a class="gh-card"  target="_blank"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tisfeng&layout=compact&langs_count=8&theme=algolia" alt="tisfeng top langs" /></a> |
+| ------- | ------- |
+
 
 
 <!--
