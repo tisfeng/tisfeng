@@ -8,7 +8,7 @@ I’m currently working on [Easydict](https://github.com/tisfeng/easydict).
 
 
 <a href="https://github.com/tisfeng/easydict">
-<img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/iShot_2023-01-28_17.40.28-1674901716.png" alt="Easdict" width="60%">
+<img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/iShot_2023-05-28_16.18.55_copy-1685331042.png" alt="Easdict" width="60%">
 </a>
  
  ## Statistics
