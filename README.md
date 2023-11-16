@@ -11,10 +11,11 @@ I’m currently working on [Easydict](https://github.com/tisfeng/easydict).
 </a>
  
  ## Statistics
- 
-| <a class="gh-card" target="_blank"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tisfeng&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="tisfeng readme card" /></a> | <a class="gh-card"  target="_blank"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tisfeng&layout=compact&langs_count=8&theme=algolia" alt="tisfeng top langs" /></a> |
-| ------- | ------- |
 
+<table>
+    <td> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tisfeng&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="tisfeng readme card" />
+    <td> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tisfeng&layout=compact&langs_count=8&theme=algolia" alt="tisfeng top langs" />
+</table>
 
 <!--
 **tisfeng/tisfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
